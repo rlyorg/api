@@ -3,7 +3,7 @@
 
 方便开发者利用良友电台的节目开发多样应用。
 
-请先申请成为良友电台开发者（https://open.729ly.net），在调用API时传递 Bearer token 以标识来源，当然你也可以匿名方式调用。
+请先申请成为良友电台开发者（ https://open.729ly.net ），在调用API时传递 Bearer token 以标识来源，当然你也可以匿名方式调用。
 
 ```
 'Authorization: Bearer evPSCZh0WtWJOlefBWbMotTegOgQJudmqAhhcoUH'
