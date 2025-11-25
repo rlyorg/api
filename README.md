@@ -87,7 +87,3 @@ play_at 为节目播放日期，请特别留意，良友圣经学院的5个节�
 - /api/program/ltstpa2
 - /api/program/ltstpb1
 - /api/program/ltstpb2
-
-##### 页码结构信息
-
-![image.png](https://i.loli.net/2021/11/02/ZXeFU7TaLlG3YCE.png)
