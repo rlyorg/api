@@ -25,7 +25,7 @@
 
 #### 结果截图
 
-![image.png](https://i.loli.net/2021/06/11/nTxRXm6CIkHlU8i.png)
+![image.png](./1764043984215.jpg)
 
 
 
@@ -39,7 +39,7 @@
 | :-------- | :------- | :------------------------- |
 | `Authorization` | `string` | **Optional**. Your Bearer Token |
 
-![image.png](https://i.loli.net/2021/06/11/9daEWPbxs8V17ek.png)
+![image.png](./1764044036323.jpg)
 
 
 
@@ -53,7 +53,7 @@
 | :-------- | :------- | :------------------------- |
 | `Authorization` | `string` | **Optional**. Your Bearer Token |
 
-![image.png](https://i.loli.net/2021/06/11/kZlI5fgTiy6GdFM.png)
+![image.png](./1764044068577.jpg)
 
 
 
@@ -75,6 +75,7 @@
 ```Result
   结果格式同 “获取当天节目列表”，数量为365天内的节目（但下面良友圣经学院的5个节目为30天内的节目）
 ```
+![image.png](./1764044008689.jpg)
 
 ##### 结果字段play_at说明
 
