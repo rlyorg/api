@@ -3,7 +3,7 @@
 
 方便开发者利用良友电台的节目开发多样应用。
 
-请先申请成为良友电台开发者（ https://open.729ly.net ），在调用API时传递 Bearer token 以标识来源，当然你也可以匿名方式调用。
+请先申请成为良友电台开发者（ https://open.listena.net ），在调用API时传递 Bearer token 以标识来源，当然你也可以匿名方式调用。
 
 ```
 'Authorization: Bearer evPSCZh0WtWJOlefBWbMotTegOgQJudmqAhhcoUH'
@@ -16,7 +16,7 @@
 #### 获取所有节目列表
 
 ```http
-  GET https://open.729ly.net/api/programs
+  GET https://open.listena.net/api/programs
 ```
 
 | Header | Type     | Description                |
@@ -32,7 +32,7 @@
 #### 按分类获取节目元数据（分类中包含其分类下的节目信息）
 
 ```http
-  GET https://open.729ly.net/api/categories
+  GET https://open.listena.net/api/categories
 ```
 
 | Header | Type     | Description                |
@@ -46,7 +46,7 @@
 #### 获取当天节目列表
 
 ```http
-  GET https://open.729ly.net/api/today
+  GET https://open.listena.net/api/today
 ```
 
 | Header | Type     | Description                |
@@ -60,7 +60,7 @@
 #### 按节目分类获取节目列表
 
 ```http
-  GET https://open.729ly.net/api/program/{id}
+  GET https://open.listena.net/api/program/{id}
 ```
 
 
